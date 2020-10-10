@@ -1,0 +1,227 @@
+::-webkit-scrollbar {
+  width: .5rem;
+  height: 1rem;
+}
+
+::-webkit-scrollbar-track-piece {
+  background: #c2c0c2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #26a69a;
+}
+
+@media only screen and (min-width: 1601px) {
+  .h1 {
+    font-size: 5rem !important;
+    padding-bottom: .5rem;
+  }
+  h2 {
+    font-size: 4rem !important;
+  }
+  h3 {
+    font-size: 3.5rem !important;
+  }
+  h4 {
+    font-size: 2.5rem !important;
+  }
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1600px) {
+  .h1 {
+    font-size: 4rem !important;
+    padding-bottom: .5rem;
+  }  
+  h2 {
+    font-size: 3.5rem !important;
+  }
+  h3 {
+    font-size: 3rem !important;
+  }
+  h4 {
+    font-size: 2rem !important;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+  .h1 {
+    font-size: 3rem !important;
+    padding-bottom: .25rem;
+  }
+  h2 {
+    font-size: 2.5rem !important;
+  }
+  h3 {
+    font-size: 2rem !important;
+  }
+  h4 {
+    font-size: 1.5rem !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .row > .col {
+    padding: 0;
+  }
+} 
+
+html,
+body {
+  font-size: 16px;
+  height: 100%;
+}
+
+.h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+.h1 {
+  color: #ee6e73 !important;
+  font-size: 2rem;
+  font-weight: bold !important;
+}
+
+h2 {
+  background: #ee6e73;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  color: white;
+  font-size: 1.75rem;
+  padding: .75rem 0;
+}
+
+h3 {
+  background: #ee6e73;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  color: white;
+  font-size: 1.5rem;
+  padding: .5rem 0;
+}
+
+h4 {
+  background: rgb(56, 144, 200);
+  color: white;
+  font-size: 1.25rem;
+  padding: .25rem 0;
+}
+
+.center-content {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: auto !important;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+nav .collapsible-body svg, nav .dropdown-content svg {
+  margin-right: 1rem !important;
+}
+
+.accent-bottom {
+  border-bottom: 1rem solid #c2c0c2;
+}
+
+.concise-table td {
+  padding: 0.4rem;
+}
+
+.container > * {
+  width: 100%;
+}
+
+.container-breakout {
+  background: white;
+  position: absolute;
+  left: 0;
+}
+
+.font-mono {
+  font-family: 'Fira Code', monospace;
+}
+
+ol.padded, ul.padded {
+  list-style-type: none;
+}
+
+.padded {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+.panel {
+  background-color: #fff;
+  border-radius: 2px;
+  margin: .75rem 0;
+}
+
+.panel > * {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.panel-rounded {
+  border-radius: 1rem;
+  padding: .25rem 1rem !important;
+}
+
+.reset {
+  background: none;
+  border: 0;
+  box-shadow: none;
+  color: inherit;
+  font: inherit;
+  height: inherit;
+  line-height: 1rem;
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
+
+.reset * {
+  color: inherit;
+}
+
+.reset:focus {
+  background: none;
+}
+
+.row {
+  margin-bottom: 0;
+}
+
+.nowrap {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.z-depth-1,
+nav,
+.card-panel,
+.card,
+.toast,
+.btn,
+.btn-large,
+.btn-small,
+.btn-floating,
+.dropdown-content,
+.collapssible,
+.panel,
+.sidenav {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3),
+              0 3px 1px -2px rgba(0, 0, 0, 0.3),
+              0 1px 5px 0 rgba(0, 0, 0, 0.4);
+}

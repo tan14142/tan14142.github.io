@@ -1,0 +1,2 @@
+(this.webpackJsonpwww=this.webpackJsonpwww||[]).push([[61],{146:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(1),l=a(134),o=a(91);t.default=function(){var e="/Projects/Rick-And-Morty-API";return Object(c.j)().path===e?r.a.createElement(c.a,{to:e+"/page/1"}):r.a.createElement(o.StoreProvider,null,r.a.createElement(l.default,null))}}}]);
+//# sourceMappingURL=61.bbf9ed2b.chunk.js.map

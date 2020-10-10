@@ -1,0 +1,1 @@
+{"version":3,"sources":["Style.scss"],"names":[],"mappings":"AAAA,yBAEI,WAAc,CACd,iBAAmB,CAHvB,4BAMI,WAAc,CACd,gBAAkB","file":"46.d8e63eb7.chunk.css","sourcesContent":["#WorldMap {\n  .country:hover {\n    stroke : black;\n    stroke-width : .5px;\n  }\n  .country#selected {\n    stroke : black;\n    stroke-width : 1px;\n  }\n}"]}
