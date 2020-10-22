@@ -1,0 +1,10 @@
+#WorldMap {
+  .country:hover {
+    stroke : black;
+    stroke-width : .5px;
+  }
+  .country#selected {
+    stroke : black;
+    stroke-width : 1px;
+  }
+}

@@ -1,0 +1,27 @@
+.pagination {
+  > li {
+    padding: 0;
+    > * {
+      padding: 0 1rem !important;
+    }
+  }
+  > li.input-field {
+    background: #fff0f0;
+    border: 1px solid #fdd;
+    margin: 0;
+    > select {
+      background: rgba(0, 0, 0, 0);
+      border: 0;
+      color: #444;
+      font-size: 1.2rem;
+      height: 100%;
+      outline: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .pagination > li > * {
+    padding: 0 .5rem !important;
+  }
+}
