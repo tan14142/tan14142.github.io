@@ -1,0 +1,25 @@
+main {
+  flex: auto;
+  padding-top: 1rem;
+}
+
+.fadeIn-enter-done {
+  animation: fadeIn .75s ease-in .25s;
+  animation-fill-mode: both;
+}
+
+.fadeIn-enter, .fadeIn-exit {
+  min-height: 80vh;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  0% {
+    min-height: 80vh;
+    opacity: 0;
+  }
+  100% {
+    min-height: 0;
+    opacity: 1;
+  }
+}

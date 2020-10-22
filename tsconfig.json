@@ -1,0 +1,25 @@
+{ "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react"
+  },
+  "exclude": [
+    "src/Projects/BreakingBadAPI.tsx",
+    "src/Projects/ReactD3.tsx",
+    "src/Projects/TravelAgency.tsx",
+    "src/Projects/WorldMap.tsx",
+    "src/Projects/WorldPopulation.tsx"
+  ],
+  "include": ["src"]
+}

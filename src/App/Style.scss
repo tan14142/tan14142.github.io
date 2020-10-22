@@ -1,0 +1,51 @@
+article {
+  background: linear-gradient(
+    transparent,
+    rgb(255, 255, 255) 215px,
+    rgb(200, 240, 255) 265px,
+    rgb(255, 224, 160)
+  );
+  flex: auto;
+  padding-top: 150px;
+  position: relative;
+}
+
+react {
+  min-height: 100%;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+  article {
+    background: linear-gradient(
+      transparent,
+      rgb(255, 255, 255) 250px,
+      rgb(200, 240, 255) 300px,
+      rgb(255, 224, 160)
+    );
+    padding-top: 175px;
+  }
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1600px) {
+  article {
+    background: linear-gradient(
+      transparent,
+      rgb(255, 255, 255) 290px,
+      rgb(200, 240, 255) 340px,
+      rgb(255, 224, 160)
+    );
+    padding-top: 200px;
+  }
+}
+
+@media only screen and (min-width: 1601px) {
+  article {
+    background: linear-gradient(
+      transparent,
+      rgb(255, 255, 255) 365px,
+      rgb(200, 240, 255) 415px,
+      rgb(255, 224, 160)
+    );
+    padding-top: 250px;
+  }
+}

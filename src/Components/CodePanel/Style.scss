@@ -1,0 +1,24 @@
+[contenteditable] {
+  outline: 0px solid transparent;
+}
+
+.language-markup {
+  > button {
+    background: rgb(56, 144, 200);
+    color: white;
+    padding: .5rem 1rem;
+    text-align: left;
+    width: 100%;
+    &:focus {
+      background: #2ab7a9;
+    }
+  }
+  > pre {
+    margin: 0;
+    padding: 1rem;
+    overflow-x: scroll;
+    > code {
+      font-family: 'Fira Code', monospace;
+    }
+  }
+}
