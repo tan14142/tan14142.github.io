@@ -1,2 +1,0 @@
-(this.webpackJsonpwww=this.webpackJsonpwww||[]).push([[58],{137:function(e,t,n){"use strict";n.r(t);var r=n(7),u=n(0);t.default=function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:[0,1],t=Object(u.useState)(0),n=Object(r.a)(t,2),c=n[0],s=n[1],i=Object(u.useRef)(null),o=new IntersectionObserver((function(e){s(e[0].intersectionRatio)}),e);return Object(u.useEffect)((function(){if(i.current){var e=i.current;return o.observe(e),function(){return o.unobserve(e)}}}),[o]),[c,i]}}}]);
-//# sourceMappingURL=58.6eb49b19.chunk.js.map

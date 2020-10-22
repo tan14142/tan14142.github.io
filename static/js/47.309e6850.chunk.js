@@ -1,0 +1,2 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[47,72],{155:function(t,e,n){},76:function(t,e,n){"use strict";n.r(e);var s=n(14),a=n(0),c=n(55),u=n.n(c);n(155);e.default=function(){var t=Object(a.useState)(""),e=Object(s.a)(t,2),n=e[0],c=e[1];return Object(a.useEffect)((function(){return n&&u.a.toast({completeCallback:function(){return c("")},html:n}),function(){return u.a.Toast.dismissAll()}}),[n]),c}}}]);
+//# sourceMappingURL=47.309e6850.chunk.js.map

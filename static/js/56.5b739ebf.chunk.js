@@ -1,0 +1,2 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[56],{127:function(e,t,n){"use strict";n.r(t);var r=n(14),u=n(0);t.default=function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:[0,1],t=Object(u.useState)(0),n=Object(r.a)(t,2),c=n[0],s=n[1],i=Object(u.useRef)(null),o=new IntersectionObserver((function(e){s(e[0].intersectionRatio)}),e);return Object(u.useEffect)((function(){if(i.current){var e=i.current;return o.observe(e),function(){return o.unobserve(e)}}}),[o]),[c,i]}}}]);
+//# sourceMappingURL=56.5b739ebf.chunk.js.map

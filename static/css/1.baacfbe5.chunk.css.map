@@ -1,1 +1,0 @@
-{"version":3,"sources":["Style.scss"],"names":[],"mappings":"AAAA,yCACE,eACE,SAAU,CACX,CAGH,4BACE,kBAAmB,CACnB,qBAAsB,CACtB,QAAS,CAHX,mCAKI,sBAA4B,CAC5B,QAAS,CACT,UAAW,CACX,gBAAiB,CACjB,WAAY,CACZ,YAAa,CACb,mBAAoB,CAjBxB,MACE,YAAa,CADf,WAGI,QAAO","file":"1.baacfbe5.chunk.css","sourcesContent":[".tabs {\n  display: flex;\n  > .tab {\n    flex: 1;\n  }\n}"]}

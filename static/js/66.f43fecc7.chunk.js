@@ -1,2 +1,0 @@
-(this.webpackJsonpwww=this.webpackJsonpwww||[]).push([[66],{154:function(e,t,n){"use strict";n.r(t);var s=n(0),a=n.n(s);t.default=function(){return a.a.createElement("section",{className:"panel"},"Test")}}}]);
-//# sourceMappingURL=66.f43fecc7.chunk.js.map

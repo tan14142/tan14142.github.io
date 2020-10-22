@@ -1,0 +1,2 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[52],{101:function(e,s,a){"use strict";a.r(s);var t=a(0),n=a.n(t);s.default=function(e){var s=e.id,a=e.styles;return n.a.createElement("div",{className:"card-panel",id:"box"+s,style:a},"Box ",s)}}}]);
+//# sourceMappingURL=52.55d2e504.chunk.js.map

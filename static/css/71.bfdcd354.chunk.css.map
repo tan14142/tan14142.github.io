@@ -1,0 +1,1 @@
+{"version":3,"sources":["Style.scss"],"names":[],"mappings":"AAAA,MACE,YAAa,CADf,WAGI,QAAO","file":"71.bfdcd354.chunk.css","sourcesContent":[".tabs {\n  display: flex;\n  > .tab {\n    flex: 1;\n  }\n}"]}

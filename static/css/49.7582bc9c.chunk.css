@@ -1,2 +1,0 @@
-#TicTacToe .board-row:after{clear:both;content:"";display:table}#TicTacToe .status{margin-bottom:10px}#TicTacToe .square{background:#fff;border:1px solid #999;float:left;font-size:80px;font-weight:700;line-height:80px;height:100px;margin-right:-1px;margin-top:-1px;padding:0;text-align:center;width:100px}#TicTacToe .square:focus{outline:none}#TicTacToe .kbd-navigation .square:focus{background:#ddd}#TicTacToe .game-board{margin-bottom:1rem;min-width:300px}#TicTacToe .game-info{margin-left:1rem}
-/*# sourceMappingURL=49.7582bc9c.chunk.css.map */
