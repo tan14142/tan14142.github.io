@@ -17,7 +17,7 @@ body {
   height: 100%;
 }
 
-.h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5 {
   margin: 0;
 }
 
@@ -187,7 +187,7 @@ nav,
 }
 
 @media only screen and (min-width: 601px) and (max-width: 992px) {
-  .h1 {
+  h1 {
     font-size: 3rem;
     padding-bottom: .25rem;
   }
@@ -203,7 +203,7 @@ nav,
 }
 
 @media only screen and (min-width: 993px) and (max-width: 1600px) {
-  .h1 {
+  h1 {
     font-size: 4rem;
     padding-bottom: .5rem;
   }  
@@ -219,7 +219,7 @@ nav,
 }
 
 @media only screen and (min-width: 1601px) {
-  .h1 {
+  h1 {
     font-size: 5rem;
     padding-bottom: .5rem;
   }
