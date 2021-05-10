@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Tabs/Style.scss"],"names":[],"mappings":"AAAA,MACE,oBAAA,CAAA,YAAa,CADf,WAGI,gBAAA,CAAA,QAAO","file":"85.685dd54a.chunk.css","sourcesContent":[".tabs {\n  display: flex;\n  > .tab {\n    flex: 1;\n  }\n}"]}

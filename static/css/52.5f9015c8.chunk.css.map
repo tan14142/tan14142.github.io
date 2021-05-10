@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Projects/ReactD3/Style.scss"],"names":[],"mappings":"AAAA,YACE,aAAc,CACd,iBAAkB","file":"52.5f9015c8.chunk.css","sourcesContent":[".ReactD3-el {\n  display: block;\n  margin: .5rem auto;\n}"]}

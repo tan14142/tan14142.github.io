@@ -1,0 +1,2 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[60],{111:function(s,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));t(1);var n=t(0);function a(s){var e=s.id,t=s.styles;return Object(n.jsxs)("div",{className:"card-panel",id:"box"+e,style:t,children:["Box ",e]})}}}]);
+//# sourceMappingURL=60.4553ff57.chunk.js.map
