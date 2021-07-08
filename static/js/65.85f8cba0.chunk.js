@@ -1,2 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[65],{86:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));var r=t(0);function c(e){var n=e.dictionary,t=e.handleClick;return Object(r.jsx)("div",{style:{margin:".5rem 0"},children:Object.keys(n).sort((function(e,n){return e.toLowerCase().localeCompare(n.toLowerCase())})).map((function(e,n){return Object(r.jsx)("a",{className:"chip",href:"!#",onClick:function(n){n.preventDefault(),t(e)},children:e},n)}))})}}}]);
-//# sourceMappingURL=65.85f8cba0.chunk.js.map
