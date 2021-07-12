@@ -1,1 +1,0 @@
-{"version":3,"sources":["Snippets/DisplayProps.tsx"],"names":["DisplayProps","className"],"mappings":"2JAAe,SAASA,IACtB,OACE,yBAASC,UAAU,QAAnB","file":"static/js/73.3d683fe0.chunk.js","sourcesContent":["export default function DisplayProps() {\r\n  return (\r\n    <section className=\"panel\">\r\n      todo\r\n    </section>\r\n  );\r\n};"],"sourceRoot":""}

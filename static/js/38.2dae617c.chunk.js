@@ -1,2 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[38],{126:function(e,s,t){"use strict";t.r(s),t.d(s,"default",(function(){return n}));var c=t(0);function n(e){e.setProgress;return Object(c.jsx)(c.Fragment,{children:Object(c.jsx)("section",{className:"accent-bottom panel",children:Object(c.jsx)("h4",{className:"center",style:{background:"#ee6e73"},children:"TODO"})})})}}}]);
-//# sourceMappingURL=38.2dae617c.chunk.js.map

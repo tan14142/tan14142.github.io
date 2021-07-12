@@ -1,0 +1,2 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[87,121],{178:function(t,n,e){},85:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return r}));var s=e(16),u=e(1),a=e(59),c=e.n(a);e(178);function r(){var t=Object(u.useState)(""),n=Object(s.a)(t,2),e=n[0],a=n[1];return Object(u.useEffect)((function(){return e&&c.a.toast({completeCallback:function(){return a("")},displayLength:2e3,html:e}),function(){return c.a.Toast.dismissAll()}}),[e]),a}}}]);
+//# sourceMappingURL=87.d44be389.chunk.js.map

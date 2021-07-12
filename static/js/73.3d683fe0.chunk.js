@@ -1,2 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[73],{155:function(e,n,s){"use strict";s.r(n),s.d(n,"default",(function(){return c}));var t=s(0);function c(){return Object(t.jsx)("section",{className:"panel",children:"todo"})}}}]);
-//# sourceMappingURL=73.3d683fe0.chunk.js.map

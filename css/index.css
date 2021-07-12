@@ -52,6 +52,11 @@ h4 {
   padding: .25rem 0;
 }
 
+table {
+  border-collapse: initial;
+  padding-right: 0 !important;
+}
+
 .center-content {
   margin-left: auto !important;
   margin-right: auto !important;
