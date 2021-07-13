@@ -1,7 +1,6 @@
 with open('/public/Projects/Project-Euler/P22.txt', 'r') as f:
   data = f.read().replace('"', '').split(',')
   data.sort()
-  f.close()
 
 ascii_offset = 64
 scores = {}
